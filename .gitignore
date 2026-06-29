@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Unignore the .gitignore file, LICENSE file, and PDF files 
+!.gitignore
+!LICENSE.txt
+!CV_LouiseBjerrum_EN.pdf
+!CV_LouiseBjerrum_NO.pdf
+.Rproj.user
